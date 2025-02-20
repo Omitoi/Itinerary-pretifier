@@ -22,7 +22,7 @@ Itinerary Prettifier is a command-line tool that transforms raw flight itinerary
 
 ### Clone the Repository
 ```sh
-$ git clone https://gitea.koodsisu.fi/petrkubec/itinerary
+$ git clone https://github.com/Omitoi/Itinerary-pretifier
 $ cd itinerary
 ```
 
